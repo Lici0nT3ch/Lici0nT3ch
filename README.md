@@ -32,7 +32,7 @@
 ⚡ **Fun fact:**
 - I've skydived from about 15,000 ft.
 - I met Jamie Foxx (when I was 2 lol)
-- 
+- I have over 7 years of experience in tech/IT, currently a Systems Specialist
 
 😄 **Pronouns:**
 - She/Her
