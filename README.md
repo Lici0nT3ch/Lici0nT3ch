@@ -37,6 +37,7 @@
 - She/Her
 
 📈 **GitHub Stats:**
+<br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lici0nt3ch&show_icons=true&theme=radical)](https://github.com/lici0nt3ch)
 
 🌟 Excited about the journey ahead and eager to contribute to the tech community! 🚀
