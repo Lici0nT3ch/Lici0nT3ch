@@ -1,4 +1,5 @@
-# <samp>&gt; Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Alica Boone a passionate beginner in the world of coding. </samp> 
+# <samp>&gt; Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Alica Boone! </samp><br>
+### Junior Developer: Turning errors into lessons, one line at a time 📚💻
 <!--<a href="add portfolio link around name"> </a> -->
 
 <div align="center"><img src="banner.png"></div>
