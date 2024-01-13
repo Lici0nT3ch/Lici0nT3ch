@@ -1,3 +1,5 @@
+<div align="center"><img src="banner.png"></div>
+
 ###👋 Hi there! I'm Alicia, a passionate beginner in the world of coding and technology.
 
 🚀 **Current Focus:**
