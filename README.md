@@ -1,6 +1,9 @@
+# <samp>&gt; Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Alica Boone a passionate beginner in the world of coding. </samp> 
+<!--<a href="add portfolio link around name"> </a> -->
+
 <div align="center"><img src="banner.png"></div>
 
-###👋 Hi there! I'm Alicia, a passionate beginner in the world of coding and technology.
+**`Welcome to my Dev Space`** 
 
 🚀 **Current Focus:**
 - Exploring the vast realms of web development.
